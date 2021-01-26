@@ -1,7 +1,7 @@
 ### Hi there my name is John, this is my profile👋
 
 <body>
-<color="white"
+<color="blue>
 <h4>I’m currently working on some gitkraken assignments</h4>
 <h4> I’m currently learning JavaScript, HTML, CSS</h4>
 <h4>I’m looking to collaborate on front end web pages</h4>
